@@ -1,2 +1,3 @@
 Thunderbolt
-Tail Whip
+say hi
+and hello
